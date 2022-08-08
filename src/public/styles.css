@@ -1,0 +1,40 @@
+
+    h2 {
+      font-size: 30px;
+      margin: 0;
+      padding-bottom: 20px;
+    }
+
+    #divConsole {
+      height: 170px;
+      width: 400px;
+      background-color: black;
+      padding: 20px;
+      padding-left: 30px;
+      padding-right: 30px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: flex-start;
+    }
+
+    #divConsole p,
+    h2,
+    span {
+      color: white
+    }
+
+    #btcUSDPrice {}
+
+    #btcLogo {
+      text-align: center;
+    }
+
+    #priceBox {
+      padding-top: 70px;
+      margin-left: 20px;
+    }
+
+    #priceBox span {
+      font-size: 50px;
+    }
